@@ -3,3 +3,4 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ## Hoje eu aprendi como o *AZURE* funciona
 Aprendi sobre o que é Nuvem Privada, Nuvem Pública, Nuvem Hibrída e Nuvem Multicloud. Além disso, Criei a minha conta no Azure
+Aprendemos sobre como configurar e criar VM, Actions Functions e conversamos sobre precificação.
