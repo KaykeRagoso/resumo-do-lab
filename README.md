@@ -5,3 +5,4 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Aprendi sobre o que é Nuvem Privada, Nuvem Pública, Nuvem Hibrída e Nuvem Multicloud. Além disso, Criei a minha conta no Azure
 Aprendemos sobre como configurar e criar VM, Actions Functions e conversamos sobre precificação.
 Aprendi sobre storage do Azure
+Aprendemos como funciona a teoria e algumas práticas de Identidade, Acesso e Segurança 
